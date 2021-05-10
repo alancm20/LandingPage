@@ -1,0 +1,40 @@
+.*{
+	padding: 0px;
+	margin: 0px;
+}
+.home{
+	flex-wrap: wrap;
+	position: absolute;
+}
+.jumbotron{
+	text-align: center;
+	color:white;
+	background-color: #004A70;
+
+}
+.container-fluid{
+	width: 100%;
+}
+img{
+	top:10%;
+	width: 100%;
+	height:80%;
+}
+body{
+	background-color: #EDF2F2;
+}
+.NewsGrid{
+	margin:20px;
+	border:2px;
+	background-color: white;
+	min-width: 300px;
+	margin-bottom: 0px;
+	font-size: 100%
+}
+input {
+  width: 110px; 
+  margin-left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  margin-top: 20px;
+}
